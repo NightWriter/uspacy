@@ -1,0 +1,71 @@
+/* Manrope */
+@font-face {
+  font-family: "ManropeRegular";
+  src: url("../assets/fonts/monrope/Manrope-Regular.ttf") format("truetype");
+  /* weight 400 */
+}
+
+@font-face {
+  font-family: "ManropeMedium";
+  src: url("../assets/fonts/monrope/Manrope-Medium.ttf") format("truetype");
+  /* weight 500 */
+}
+
+@font-face {
+  font-family: "ManropeSemiBold";
+  src: url("../assets/fonts/monrope/Manrope-SemiBold.ttf") format("truetype");
+  /* weight 600 */
+}
+
+@font-face {
+  font-family: "ManropeBold";
+  src: url("../assets/fonts/monrope/Manrope-Bold.ttf") format("truetype");
+  /* weight 700 */
+}
+
+@font-face {
+  font-family: "ManropeBold";
+  src: url("../assets/fonts/monrope/Manrope-Bold.ttf") format("truetype");
+  /* weight 800 */
+}
+
+/* Montserrat */
+@font-face {
+  font-family: "MontserratRegular";
+  src: url("../assets/fonts/montserrat/Montserrat-Regular.ttf")
+    format("truetype");
+  /* weight 400 */
+}
+
+@font-face {
+  font-family: "MontserratMedium";
+  src: url("../assets/fonts/montserrat/Montserrat-Medium.ttf")
+    format("truetype");
+  /* weight 500 */
+}
+
+@font-face {
+  font-family: "MontserratSemiBold";
+  src: url("../assets/fonts/montserrat/Montserrat-SemiBold.ttf")
+    format("truetype");
+  /* weight 600 */
+}
+
+@font-face {
+  font-family: "MontserratBold";
+  src: url("../assets/fonts/montserrat/Montserrat-Bold.ttf") format("truetype");
+  /* weight 700 */
+}
+
+@font-face {
+  font-family: "MontserratExtraBolt";
+  src: url("../assets/fonts/montserrat/Montserrat-ExtraBold.ttf")
+    format("truetype");
+  /* weight 800 */
+}
+
+@font-face {
+  font-family: "MontserratBlack";
+  src: url("../assets/fonts/montserrat/Montserrat-Black.ttf") format("truetype");
+  /* weight 900 */
+}
